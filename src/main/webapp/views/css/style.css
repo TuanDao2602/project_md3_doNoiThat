@@ -1,0 +1,95 @@
+    /* ####################################################
+    :: Template Name: Essence - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Essence is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform.
+    :: Version: 1.0.0
+    :: Created: April 27, 2018
+    :: Last Updated: May 2, 2018
+    #################################################### */
+
+    /* ---------------------------------------
+    ##### - PLACE YOUR CUSTOM CSS HERE - #####
+    --------------------------------------- */
+    .carousel-item img {
+        width: 800px;
+        height: 550px;
+        padding: 30px;
+    }
+
+    .search-class {
+        height: 50px;
+    }
+
+    .headerclass {
+        position: fixed;
+        z-index: 1;
+    }
+
+    #div1 {}
+
+    .div2 {
+        position: absolute;
+    }
+
+    #contact {
+        display: flex;
+    }
+
+    #map {
+        margin-right: 90px;
+    }
+
+    .contacs {
+        width: 450px;
+    }
+
+    #listItems {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 30px;
+        padding: 20px;
+
+
+    }
+
+    #listItems img {
+        width: 550px;
+        height: 350px;
+    }
+
+    .like {
+        position: absolute;
+        top: -430px;
+        left: 370px;
+        font-size: 20px;
+        border: 0px;
+        border: none;
+    }
+
+    .like:hover .bi-suit-heart {
+        color: rgb(235, 16, 60)
+    }
+
+    .like .bi-suit-heart {
+        color: rgb(237, 156, 169);
+        border: none;
+    }
+
+    .like1 {
+        position: absolute;
+        top: -770px;
+        left: 340px;
+        font-size: 20px;
+        border: 0px;
+        border: none;
+    }
+
+    .like1:hover .bi-suit-heart {
+        color: rgb(235, 16, 60)
+    }
+
+    .like1 .bi-suit-heart {
+        color: rgb(237, 156, 169);
+        border: none;
+    }
